@@ -847,13 +847,14 @@ h4 { font-size: 1.25rem; }
 .service-card {
     position: relative;
     padding: var(--spacing-2xl) var(--spacing-xl);
+    padding-top: calc(var(--spacing-2xl) + 12px);
     background: white;
     border-radius: var(--radius-xl);
     box-shadow: var(--shadow-md);
     transition: all var(--transition-base);
     text-align: center;
     border: 1px solid var(--color-border-light);
-    overflow: hidden;
+    overflow: visible;
 }
 
 .service-card::before {
@@ -886,9 +887,9 @@ h4 { font-size: 1.25rem; }
 
 .service-badge {
     position: absolute;
-    top: 0;
+    top: -12px;
     left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%);
     padding: var(--spacing-sm) var(--spacing-lg);
     background: var(--color-primary-gradient);
     color: white;
@@ -899,6 +900,7 @@ h4 { font-size: 1.25rem; }
     letter-spacing: 0.5px;
     text-transform: uppercase;
     box-shadow: 0 4px 15px rgba(26, 107, 92, 0.3);
+    z-index: 10;
 }
 
 .service-icon {
