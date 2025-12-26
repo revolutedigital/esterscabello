@@ -836,6 +836,8 @@ h4 { font-size: 1.25rem; }
     display: grid;
     grid-template-columns: 1fr;
     gap: var(--spacing-xl);
+    overflow: visible;
+    padding-top: 20px;
 }
 
 @media (min-width: 768px) {
