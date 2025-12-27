@@ -13,4 +13,4 @@ Crawl-delay: 1
 # Bloquear pastas desnecessárias (se existirem)
 Disallow: /admin/
 Disallow: /private/
-Disallow: /*.json$
+Disallow: /*.json
