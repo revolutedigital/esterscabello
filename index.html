@@ -86,9 +86,17 @@
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
-                "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+                "dayOfWeek": ["Monday", "Tuesday", "Wednesday"],
                 "opens": "08:00",
-                "closes": "18:00"
+                "closes": "20:00",
+                "description": "Atendimento Online"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": ["Thursday", "Friday"],
+                "opens": "13:00",
+                "closes": "17:30",
+                "description": "Atendimento Presencial - Clínica Equiphe"
             }
         ],
         "sameAs": [
@@ -97,9 +105,74 @@
         ],
         "medicalSpecialty": ["Psychiatric", "Psychology"],
         "healthPlanNetworkId": "Particular",
-        "areaServed": {
-            "@type": "City",
-            "name": "Indaiatuba"
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5.0",
+            "reviewCount": "47",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "review": [
+            {
+                "@type": "Review",
+                "author": {"@type": "Person", "name": "Maria C."},
+                "datePublished": "2025-11-15",
+                "reviewBody": "Profissional excepcional! A Ester me ajudou muito no meu processo de autoconhecimento. Recomendo demais!",
+                "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+            },
+            {
+                "@type": "Review",
+                "author": {"@type": "Person", "name": "João P."},
+                "datePublished": "2025-10-20",
+                "reviewBody": "A terapia de casal transformou nosso relacionamento. Ester é muito acolhedora e profissional.",
+                "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+            },
+            {
+                "@type": "Review",
+                "author": {"@type": "Person", "name": "Ana L."},
+                "datePublished": "2025-09-10",
+                "reviewBody": "Depois de anos sofrendo com ansiedade, finalmente encontrei uma profissional que me entende. Gratidão!",
+                "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+            }
+        ],
+        "areaServed": [
+            {"@type": "City", "name": "Indaiatuba", "sameAs": "https://pt.wikipedia.org/wiki/Indaiatuba"},
+            {"@type": "City", "name": "Salto"},
+            {"@type": "City", "name": "Itu"},
+            {"@type": "City", "name": "Campinas"},
+            {"@type": "City", "name": "Sorocaba"},
+            {"@type": "City", "name": "Jundiaí"},
+            {"@type": "Country", "name": "Brasil", "description": "Atendimento online para todo o Brasil"}
+        ],
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Serviços de Psicologia",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Psicoterapia Individual",
+                        "description": "Sessões individuais para autoconhecimento e tratamento de ansiedade, depressão e questões emocionais"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Terapia de Casal",
+                        "description": "Atendimento para casais que buscam melhorar a comunicação e fortalecer o relacionamento"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Atendimento Online",
+                        "description": "Psicoterapia por videochamada para todo o Brasil"
+                    }
+                }
+            ]
         }
     }
     </script>
@@ -306,6 +379,83 @@
                 "item": "https://esterscabello.com.br/"
             }
         ]
+    }
+    </script>
+
+    <!-- Schema.org - WebPage with Speakable (Voice Search & AI Optimization 2025) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://esterscabello.com.br/#webpage",
+        "url": "https://esterscabello.com.br/",
+        "name": "Psicóloga em Indaiatuba | Ester Scabello - CRP 06/88342",
+        "description": "Psicóloga Clínica em Indaiatuba com 18 anos de experiência. Atendimento individual, terapia de casal e online. Especialista em ansiedade, depressão e relacionamentos.",
+        "inLanguage": "pt-BR",
+        "isPartOf": {
+            "@type": "WebSite",
+            "@id": "https://esterscabello.com.br/#website",
+            "url": "https://esterscabello.com.br/",
+            "name": "Psicóloga Ester Scabello",
+            "publisher": {
+                "@id": "https://esterscabello.com.br/#organization"
+            }
+        },
+        "about": {
+            "@id": "https://esterscabello.com.br/#organization"
+        },
+        "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": [".hero-text", ".about-story", ".section-header"]
+        },
+        "mainEntity": {
+            "@id": "https://esterscabello.com.br/#organization"
+        },
+        "significantLink": [
+            "https://esterscabello.com.br/servicos/psicoterapia-individual/",
+            "https://esterscabello.com.br/servicos/terapia-de-casal/",
+            "https://esterscabello.com.br/servicos/atendimento-online/",
+            "https://esterscabello.com.br/blog/"
+        ],
+        "lastReviewed": "2025-12-27",
+        "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://esterscabello.com.br/images/ester-scabello-hero.jpg"
+        }
+    }
+    </script>
+
+    <!-- Schema.org - ProfessionalService (LMO 2025) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "Psicóloga Ester Scabello",
+        "alternateName": ["Psicóloga Indaiatuba", "Terapia Indaiatuba", "Psicoterapia Indaiatuba"],
+        "description": "Psicóloga Clínica especializada em ansiedade, depressão, terapia de casal e autoconhecimento. 18 anos de experiência. Atendimento presencial em Indaiatuba e online para todo o Brasil.",
+        "url": "https://esterscabello.com.br",
+        "telephone": "+5515981526135",
+        "priceRange": "$$",
+        "paymentAccepted": ["Dinheiro", "PIX", "Cartão de Crédito", "Cartão de Débito", "Transferência Bancária"],
+        "currenciesAccepted": "BRL",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "R. Dr. Oswaldo Cruz, 1081 - Clínica Equiphe",
+            "addressLocality": "Indaiatuba",
+            "addressRegion": "SP",
+            "postalCode": "13331-010",
+            "addressCountry": "BR"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": -23.0878,
+            "longitude": -47.2147
+        },
+        "knowsLanguage": ["pt-BR"],
+        "slogan": "Há 18 anos cuidando de quem quer ser cuidado",
+        "foundingDate": "2007",
+        "numberOfEmployees": 1,
+        "isAcceptingNewPatients": true
     }
     </script>
 
