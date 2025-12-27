@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Página Principal -->
   <url>
-    <loc>https://esterscabello.com.br/</loc>
+    <loc>https://psiesterscabello.com.br/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -10,25 +10,25 @@
 
   <!-- Serviços -->
   <url>
-    <loc>https://esterscabello.com.br/servicos/</loc>
+    <loc>https://psiesterscabello.com.br/servicos/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/servicos/psicoterapia-individual/</loc>
+    <loc>https://psiesterscabello.com.br/servicos/psicoterapia-individual/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/servicos/terapia-de-casal/</loc>
+    <loc>https://psiesterscabello.com.br/servicos/terapia-de-casal/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/servicos/atendimento-online/</loc>
+    <loc>https://psiesterscabello.com.br/servicos/atendimento-online/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -36,7 +36,7 @@
 
   <!-- Blog -->
   <url>
-    <loc>https://esterscabello.com.br/blog/</loc>
+    <loc>https://psiesterscabello.com.br/blog/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -44,31 +44,31 @@
 
   <!-- Artigos do Blog - Ansiedade -->
   <url>
-    <loc>https://esterscabello.com.br/blog/ansiedade-sintomas-causas-tratamento/</loc>
+    <loc>https://psiesterscabello.com.br/blog/ansiedade-sintomas-causas-tratamento/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/panico-sintomas-tratamento/</loc>
+    <loc>https://psiesterscabello.com.br/blog/panico-sintomas-tratamento/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/fobia-social-timidez/</loc>
+    <loc>https://psiesterscabello.com.br/blog/fobia-social-timidez/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/mindfulness-para-ansiedade/</loc>
+    <loc>https://psiesterscabello.com.br/blog/mindfulness-para-ansiedade/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/medo-de-mudancas/</loc>
+    <loc>https://psiesterscabello.com.br/blog/medo-de-mudancas/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -76,67 +76,67 @@
 
   <!-- Artigos do Blog - Saúde Mental -->
   <url>
-    <loc>https://esterscabello.com.br/blog/depressao-sinais-tratamento/</loc>
+    <loc>https://psiesterscabello.com.br/blog/depressao-sinais-tratamento/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/como-saber-se-preciso-de-terapia/</loc>
+    <loc>https://psiesterscabello.com.br/blog/como-saber-se-preciso-de-terapia/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/burnout-esgotamento-profissional/</loc>
+    <loc>https://psiesterscabello.com.br/blog/burnout-esgotamento-profissional/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/estresse-pos-traumatico/</loc>
+    <loc>https://psiesterscabello.com.br/blog/estresse-pos-traumatico/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/transtorno-obsessivo-compulsivo/</loc>
+    <loc>https://psiesterscabello.com.br/blog/transtorno-obsessivo-compulsivo/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/insonia-causas-tratamento/</loc>
+    <loc>https://psiesterscabello.com.br/blog/insonia-causas-tratamento/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/como-lidar-com-luto/</loc>
+    <loc>https://psiesterscabello.com.br/blog/como-lidar-com-luto/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/solidao-como-lidar/</loc>
+    <loc>https://psiesterscabello.com.br/blog/solidao-como-lidar/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/ansiedade-social-redes/</loc>
+    <loc>https://psiesterscabello.com.br/blog/ansiedade-social-redes/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/vicio-celular/</loc>
+    <loc>https://psiesterscabello.com.br/blog/vicio-celular/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/trauma-infancia-adulto/</loc>
+    <loc>https://psiesterscabello.com.br/blog/trauma-infancia-adulto/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -144,121 +144,121 @@
 
   <!-- Artigos do Blog - Autoconhecimento -->
   <url>
-    <loc>https://esterscabello.com.br/blog/sindrome-do-impostor/</loc>
+    <loc>https://psiesterscabello.com.br/blog/sindrome-do-impostor/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/autoestima-como-desenvolver/</loc>
+    <loc>https://psiesterscabello.com.br/blog/autoestima-como-desenvolver/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/inteligencia-emocional/</loc>
+    <loc>https://psiesterscabello.com.br/blog/inteligencia-emocional/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/procrastinacao-causas-solucoes/</loc>
+    <loc>https://psiesterscabello.com.br/blog/procrastinacao-causas-solucoes/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/raiva-como-controlar/</loc>
+    <loc>https://psiesterscabello.com.br/blog/raiva-como-controlar/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/perdao-como-perdoar/</loc>
+    <loc>https://psiesterscabello.com.br/blog/perdao-como-perdoar/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/culpa-como-superar/</loc>
+    <loc>https://psiesterscabello.com.br/blog/culpa-como-superar/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/autoconhecimento-exercicios/</loc>
+    <loc>https://psiesterscabello.com.br/blog/autoconhecimento-exercicios/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/limites-saudaveis/</loc>
+    <loc>https://psiesterscabello.com.br/blog/limites-saudaveis/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/comparacao-redes-sociais/</loc>
+    <loc>https://psiesterscabello.com.br/blog/comparacao-redes-sociais/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/gratidao-beneficios/</loc>
+    <loc>https://psiesterscabello.com.br/blog/gratidao-beneficios/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/proposito-vida-encontrar/</loc>
+    <loc>https://psiesterscabello.com.br/blog/proposito-vida-encontrar/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/felicidade-o-que-e/</loc>
+    <loc>https://psiesterscabello.com.br/blog/felicidade-o-que-e/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/resiliencia-como-desenvolver/</loc>
+    <loc>https://psiesterscabello.com.br/blog/resiliencia-como-desenvolver/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/autocompaixao-pratica/</loc>
+    <loc>https://psiesterscabello.com.br/blog/autocompaixao-pratica/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/vulnerabilidade-forca/</loc>
+    <loc>https://psiesterscabello.com.br/blog/vulnerabilidade-forca/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/perfeccionismo-quando-atrapalha/</loc>
+    <loc>https://psiesterscabello.com.br/blog/perfeccionismo-quando-atrapalha/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/autossabotagem-padroes/</loc>
+    <loc>https://psiesterscabello.com.br/blog/autossabotagem-padroes/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/crencas-limitantes/</loc>
+    <loc>https://psiesterscabello.com.br/blog/crencas-limitantes/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/amor-proprio-importancia/</loc>
+    <loc>https://psiesterscabello.com.br/blog/amor-proprio-importancia/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -266,55 +266,55 @@
 
   <!-- Artigos do Blog - Relacionamentos -->
   <url>
-    <loc>https://esterscabello.com.br/blog/terapia-de-casal-funciona/</loc>
+    <loc>https://psiesterscabello.com.br/blog/terapia-de-casal-funciona/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/relacionamento-toxico-sinais/</loc>
+    <loc>https://psiesterscabello.com.br/blog/relacionamento-toxico-sinais/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/comunicacao-no-casamento/</loc>
+    <loc>https://psiesterscabello.com.br/blog/comunicacao-no-casamento/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/ciumes-no-relacionamento/</loc>
+    <loc>https://psiesterscabello.com.br/blog/ciumes-no-relacionamento/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/dependencia-emocional/</loc>
+    <loc>https://psiesterscabello.com.br/blog/dependencia-emocional/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/pessoas-toxicas-como-identificar/</loc>
+    <loc>https://psiesterscabello.com.br/blog/pessoas-toxicas-como-identificar/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/separacao-divorcio-como-superar/</loc>
+    <loc>https://psiesterscabello.com.br/blog/separacao-divorcio-como-superar/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/apego-ansioso-evitativo/</loc>
+    <loc>https://psiesterscabello.com.br/blog/apego-ansioso-evitativo/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/assertividade-comunicacao/</loc>
+    <loc>https://psiesterscabello.com.br/blog/assertividade-comunicacao/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -322,19 +322,19 @@
 
   <!-- Artigos do Blog - Família -->
   <url>
-    <loc>https://esterscabello.com.br/blog/mae-sobrecarregada/</loc>
+    <loc>https://psiesterscabello.com.br/blog/mae-sobrecarregada/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/filhos-separacao-como-ajudar/</loc>
+    <loc>https://psiesterscabello.com.br/blog/filhos-separacao-como-ajudar/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/ninho-vazio-sindrome/</loc>
+    <loc>https://psiesterscabello.com.br/blog/ninho-vazio-sindrome/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -342,19 +342,19 @@
 
   <!-- Artigos do Blog - Fases da Vida -->
   <url>
-    <loc>https://esterscabello.com.br/blog/crise-meia-idade/</loc>
+    <loc>https://psiesterscabello.com.br/blog/crise-meia-idade/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/menopausa-emocional/</loc>
+    <loc>https://psiesterscabello.com.br/blog/menopausa-emocional/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/aposentadoria-emocional/</loc>
+    <loc>https://psiesterscabello.com.br/blog/aposentadoria-emocional/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -362,19 +362,19 @@
 
   <!-- Artigos do Blog - Carreira -->
   <url>
-    <loc>https://esterscabello.com.br/blog/lideranca-feminina-desafios/</loc>
+    <loc>https://psiesterscabello.com.br/blog/lideranca-feminina-desafios/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/trabalho-hibrido-saude-mental/</loc>
+    <loc>https://psiesterscabello.com.br/blog/trabalho-hibrido-saude-mental/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/blog/home-office-equilibrio/</loc>
+    <loc>https://psiesterscabello.com.br/blog/home-office-equilibrio/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -382,13 +382,13 @@
 
   <!-- Páginas Legais -->
   <url>
-    <loc>https://esterscabello.com.br/privacidade/</loc>
+    <loc>https://psiesterscabello.com.br/privacidade/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://esterscabello.com.br/termos/</loc>
+    <loc>https://psiesterscabello.com.br/termos/</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

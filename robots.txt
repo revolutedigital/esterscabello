@@ -1,11 +1,11 @@
 # Robots.txt - Psicóloga Ester Scabello
-# https://esterscabello.com.br
+# https://psiesterscabello.com.br
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://esterscabello.com.br/sitemap.xml
+Sitemap: https://psiesterscabello.com.br/sitemap.xml
 
 # Crawl-delay (opcional, para não sobrecarregar o servidor)
 Crawl-delay: 1
